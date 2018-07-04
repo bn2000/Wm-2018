@@ -6,12 +6,13 @@ import java.util.ArrayList;
  * @version (eine Versionsnummer oder ein Datum)
  */
 public class Spielplan{
-    
+
 
 
 
     public Spielplan()
     {
+        
         
         
     }
