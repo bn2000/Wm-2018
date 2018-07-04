@@ -21,7 +21,7 @@ public class Spiel
         this.heimtore=heimtore;
         this.gasttore=gasttore;
         this.heimmannschaft=heimmannschaft;
-        this.gastmannschaft=gastmannschaft; Selam Aleykum
+        this.gastmannschaft=gastmannschaft; 
         
     }
     
