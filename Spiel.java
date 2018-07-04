@@ -7,7 +7,7 @@ public class Spiel
     private int heimtore;
     private int gasttore;
     private Mannschaft heimmannschaft;
-    private Mannschaft gastmannschaft;
+    private Mannschaft gastmannschaft; 
     
 
     /**
@@ -21,7 +21,7 @@ public class Spiel
         this.heimtore=heimtore;
         this.gasttore=gasttore;
         this.heimmannschaft=heimmannschaft;
-        this.gastmannschaft=gastmannschaft;
+        this.gastmannschaft=gastmannschaft; Selam Aleykum
         
     }
     
