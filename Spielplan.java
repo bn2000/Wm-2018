@@ -6,13 +6,15 @@ import java.util.ArrayList;
  * @version (eine Versionsnummer oder ein Datum)
  */
 public class Spielplan{
+    private ArrayList<Gruppe>gruppen;
 
 
 
 
     public Spielplan()
     {
-        
+        ArrayList<Gruppe>gruppen=new ArrayList<>();
+
         
         
     }
