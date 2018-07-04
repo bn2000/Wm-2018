@@ -19,7 +19,7 @@ public class Mannschaft
     public Mannschaft(String spieler,String trainer,String name)
     {
         this.spieler=spieler;
-        this.trainer=trainer;
+        this.trainer=trainer;cvvv
         this.name=name;
         
     }
