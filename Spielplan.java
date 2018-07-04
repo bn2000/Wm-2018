@@ -12,7 +12,7 @@ public class Spielplan{
 
     public Spielplan()
     {
-        huso
+        
         
         
     }
