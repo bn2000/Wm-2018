@@ -35,14 +35,17 @@ public class Mannschaft
         return spieler;
         
     }
+    
     public String gibTrainer()
     {
         return trainer;
         
     }
+    
     public String gibName()
     {
         return name;
         
     }
+    
 }
