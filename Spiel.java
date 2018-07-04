@@ -6,8 +6,8 @@ public class Spiel
     private String ort;
     private int heimtore;
     private int gasttore;
-    private String heimmannschaft;
-    private String gastmannschaft;
+    private Mannschaft heimmannschaft;
+    private Mannschaft gastmannschaft;
     
 
     /**
@@ -25,12 +25,12 @@ public class Spiel
         
     }
     
-    public String gibHeimmannschaft()
+    public Mannschaft gibHeimmannschaft()
     {
         return heimmannschaft;
     }
     
-    public String gibGastmannschaft()
+    public Mannschaft gibGastmannschaft()
     {
         return gastmannschaft;
     }
